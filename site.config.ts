@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Momo的流水账',
+  author: 'Glatisant的流水账',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
